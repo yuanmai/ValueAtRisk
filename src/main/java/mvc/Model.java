@@ -3,11 +3,7 @@
  */
 package mvc;
 
-import com.nm.var.src.HistoricalSimulation;
-import com.nm.var.src.ModelBuilding;
-import com.nm.var.src.MonteCarloSimulation;
-import com.nm.var.src.SimulationSetup;
-import com.nm.var.src.VarUtils;
+import com.nm.var.*;
 
 /**
  * MVC Design Pattern.

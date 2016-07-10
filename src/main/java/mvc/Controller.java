@@ -3,12 +3,12 @@
  */
 package mvc;
 
+import com.nm.var.BackTesting;
+import com.nm.var.SimulationSetup;
+import com.nm.var.StressTester;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import com.nm.var.src.BackTesting;
-import com.nm.var.src.SimulationSetup;
-import com.nm.var.src.StressTester;
 
 /**
  * MVC Design pattern
